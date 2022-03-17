@@ -6,7 +6,7 @@
 
 <a href="https://github.com/devgony">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgony&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgony&theme=buefy&layout=compact&hide=css,html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgony&theme=buefy&layout=compact&hide=css,html,javascript" />
 </a>
 
 <!--
